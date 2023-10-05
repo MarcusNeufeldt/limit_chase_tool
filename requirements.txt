@@ -1,0 +1,4 @@
+streamlit
+ccxt
+time
+threading
